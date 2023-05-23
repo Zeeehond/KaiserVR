@@ -136,7 +136,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 107946, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 447954, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
       propertyPath: m_RootOrder
@@ -632,7 +632,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2717636233026024033, guid: 84d1c2810ee3c004da3bb8afce1a6de7, type: 3}
       propertyPath: m_Name
-      value: VideoScreen
+      value: VideoAudioScreen
       objectReference: {fileID: 0}
     - target: {fileID: 2717636233026024037, guid: 84d1c2810ee3c004da3bb8afce1a6de7, type: 3}
       propertyPath: m_RootOrder
